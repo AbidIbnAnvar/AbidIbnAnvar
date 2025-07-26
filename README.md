@@ -27,7 +27,7 @@
 
 <!-- DevOps & Tools -->
 <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" width="48" height="48" />&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" alt="AWS" width="" height="36" />&nbsp;
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.56.0/files/dark/aws-color.png" alt="AWS" width="" height="36" />&nbsp;
 <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="48" height="48" />
 
 </div>
