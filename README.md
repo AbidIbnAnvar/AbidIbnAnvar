@@ -3,7 +3,7 @@
 
 ---
 
-### 🛠️ Technologies I Have Used
+### Technologies I Have Used
 
 **Languages**  
 <div style="display:flex;justify-content:center;gap:8px;">
@@ -35,12 +35,15 @@
 
 ---
 
-### 📊 GitHub Stats & Streak
+### GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbidIbnAnvar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="45%" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbidIbnAnvar&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="45%" />
-<div>
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbidIbnAnvar&layout=compact&theme=tokyonight&hide_border=true" 
+  alt="Top Languages" 
+/>
+</div>
